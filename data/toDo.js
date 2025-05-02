@@ -100,3 +100,5 @@ const toDoList = [
   "learn C++",
   "learn SQL",
 ];
+
+export default toDoList;

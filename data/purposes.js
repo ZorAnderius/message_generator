@@ -20,3 +20,5 @@ const purposesList = [
   "Than you will be happy!",
   "Because knowledge is power!",
 ];
+
+export default purposesList;
