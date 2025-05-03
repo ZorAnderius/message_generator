@@ -1,0 +1,20 @@
+{
+  "name": "message_generator",
+  "version": "1.0.0",
+  "description": "Generate random toDo and reason do it for random person. Every day it selected random 10 persons.",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZorAnderius/message_generator.git"
+  },
+  "author": "Zoranderius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZorAnderius/message_generator/issues"
+  },
+  "homepage": "https://github.com/ZorAnderius/message_generator#readme"
+}

@@ -6,7 +6,7 @@ This project is a simple random message generator that picks:
 - a random **task** for today
 - a motivational **purpose**
 
-Useful for teams, learning schedules, or just personal daily challenges.
+The best motivator for IT students. Helps them never forget about their learning goals. Every day, it gives 10 random users something to do and motivation - the goals they went to study for.
 
 ---
 
@@ -15,7 +15,7 @@ Useful for teams, learning schedules, or just personal daily challenges.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/message_generator.git
+git clone https://github.com/{your-username}/message_generator.git
 
 ```
 
@@ -35,10 +35,10 @@ node script.js
 
 ## What Does It Do?
 
-Each time you run the script, it generates a message like:
+Each time you run the script, it generates 10 messages like:
 
 ```bash
-Today, Grace should: learn React
+Hi Grace! Today, you should: learn React
 Because: To get a job!
 
 ```
