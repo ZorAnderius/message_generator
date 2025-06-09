@@ -14,6 +14,8 @@ const printPersonWithWorkAndPurpose = () => {
   console.log(`Because: ${purpose}`);
 };
 
+console.log('hello world');
+
 for (let i = 0; i <= 10; i++) {
   printPersonWithWorkAndPurpose();
 }
